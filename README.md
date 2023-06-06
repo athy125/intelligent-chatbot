@@ -81,5 +81,3 @@ Contributions are welcome! If you have any improvements or bug fixes, feel free 
 
 This project is licensed under the [MIT License](LICENSE).
 ```
-
-Feel free to customize and modify the documentation as needed to suit your project's specific details and requirements.
