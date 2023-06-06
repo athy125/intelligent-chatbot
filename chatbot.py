@@ -4,6 +4,8 @@ from slack_sdk.signature import SignatureVerifier
 from dotenv import load_dotenv
 import os
 import openai
+import asyncio
+import logging
 
 # Load environment variables
 load_dotenv()
