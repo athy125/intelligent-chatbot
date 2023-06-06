@@ -80,4 +80,3 @@ Contributions are welcome! If you have any improvements or bug fixes, feel free 
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-```
